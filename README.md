@@ -2,7 +2,7 @@
 
 Name: Eric Tran
 Partner: N/A
-GitHub Pages: [link to be added]
+GitHub Pages: https://eric-tran6.github.io/Lab5_Starter/
 
 ## Check Your Understanding
 
